@@ -5,5 +5,6 @@ function addElementToBeginningOfArray (array, element) {
   var element = "green";
   array.push(element)[0]
   return array
-
 }
+
+addElementToBeginningOfArray()
